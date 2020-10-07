@@ -1,0 +1,4 @@
+CHANGELOGS
+
+10/6/20 - build v0.0.1 -
+- Added a simple Display
